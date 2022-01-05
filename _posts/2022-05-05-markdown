@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "خاطرات"
+title: "the memories"
 date: 2020-01-05
 author: Mojtaba Asadi
 avatar: assets/myprofile1.jpg
@@ -27,7 +27,7 @@ print_hi('Tom')
 
 <figure>
 
-<img data-width="4000" data-height="250" src="assets/myprofile2.jpg" />  
+<img data-width="4000" data-height="250" src="assets/myprofile2.png" />  
 </figure>
 
 

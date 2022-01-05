@@ -33,11 +33,11 @@ disqus: salam
 
 author: Mojtaba Asadi
 author_bio: >-
-  سلام من محمد مجتبي اسدي هستم كه به تازگي وارد رشته كامپيوتر شدم
-  و توانستم در مدت كوتاهي كار هاي جالبي رو انجام بدم 
-  هنوز به اون مكاني كه مي خواهم نرسيدم اما سعي مي كنم
-  هر روز فاصله ام را با آن كمتر كنم
-author_pic: assets/myprofile2.jpg
+  Hi, I am Mohammad Mojtaba Asadi, who has just entered the field of computer
+  And I was able to do interesting things in a short time
+  I have not yet reached the place I want to, but I will try
+  I reduce my distance with it every day
+author_pic: assets/myprofile2.png
 paginate: 4
 paginate_path: "/:num/"
 
