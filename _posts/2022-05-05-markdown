@@ -3,7 +3,7 @@ layout: post
 title: "the memories"
 date: 2020-01-05
 author: Mojtaba Asadi
-avatar: assets/myprofile1.jpg
+avatar: assets/profile.png
 category: Example Posts
 ---
 
@@ -25,10 +25,10 @@ print_hi('Tom')
 #=> prints 'Hi, Tom' to STDOUT.
 {% endhighlight %}
 
-<figure>
+<!-- <figure>
 
 <img data-width="4000" data-height="250" src="assets/myprofile2.png" />  
-</figure>
+</figure> -->
 
 
 Check out the [Jekyll docs][jekyll-docs] for more info on how to get the most out of Jekyll. File all bugs/feature requests at [Jekyll’s GitHub repo][jekyll-gh]. If you have questions, you can ask them on [Jekyll Talk][jekyll-talk].
